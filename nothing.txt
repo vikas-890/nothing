@@ -1,3 +1,6 @@
 hello do we have somethig here,
 no idont 
 so we have somethig
+
+ab hum git reset --soft practice karenge to yeh is prakar hai
+git reset --soft id
