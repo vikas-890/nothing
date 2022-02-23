@@ -3,3 +3,5 @@ function iam(al) {
 }
 
 iam("newbie");
+
+const alph = "ek aur function";
